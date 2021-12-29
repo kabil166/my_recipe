@@ -1,0 +1,8 @@
+.filter__type{
+    list-style: upper-alpha;
+    font-size: large;
+    font-weight: 600;
+}
+.filter__checks{
+    margin-left: 20px;
+}

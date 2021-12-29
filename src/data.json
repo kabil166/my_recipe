@@ -1,0 +1,144 @@
+{
+    "hits": [
+        {
+            "id": 1,
+            "name": "Tandoori Chicken",
+            "type": "dinner",
+            "imageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/tandoori-chicken.jpg",
+            "category": "non-veg"
+        },
+        {
+            "id": 2,
+            "name": "Chicken Pakoda",
+            "type": "Snacks and Apetizers",
+            "imageUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2019/05/chicken-pakora-pin.jpg",
+            "category": "non-veg"
+        },
+        {
+            "id": 3,
+            "name": "Fruit and Coconut Icecream",
+            "type": "dessert",
+            "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/easiest-ever-fruit-and-coconut-ice-cream-1589550075.jpg",
+            "category": "Ice-creams"
+        },
+        {
+            "id": 4,
+            "name": "Ice Cream",
+            "type": "dessert",
+            "imageUrl": "https://img.etimg.com/thumb/msid-84939728,width-1200,height-900,imgsize-381352,resizemode-8,quality-100/magazines/panache/from-the-us-russia-to-india-an-ice-cream-bowl-has-a-long-political-history.jpg",
+            "category": "Ice-creams"
+        },
+        {
+            "id": 5,
+            "name": "Garlic bread spaghetti carbonara",
+            "type": "autumn",
+            "imageUrl": "https://img.taste.com.au/evQ2Ro5s/w720-h480-cfill-q80/taste/2020/02/garlic-bread-spaghetti-carbonara-158232-2.jpg",
+            "category": "Veg"
+        },
+        {
+            "id": 6,
+            "name": "One-pan mushroom and spinach chicken",
+            "type": "dinner",
+            "imageUrl": "https://img.taste.com.au/6BIlspxh/w720-h480-cfill-q80/taste/2020/02/mar20_one-pan-mushroom-and-spinach-chicken-158585-1.jpg",
+            "category": "veg"
+        },
+        {
+            "id": 7,
+            "name": "Healthy pasta primavera",
+            "type": "Spring",
+            "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/healthy-pasta-primaver-35cbc26.jpg?quality=90&webp=true&resize=375,341",
+            "category": "veg"
+        },
+        {
+            "id": 8,
+            "name": "Spring chicken in a pot",
+            "type": "spring",
+            "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-513635_11-975dc34.jpg?quality=90&webp=true&resize=375,341",
+            "category": "veg"
+        },
+        {
+            "id": 9,
+            "name": "Cacio E Pepe Egg Noodles",
+            "type": "Summer",
+            "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/keto-egg-noodles-recipe-3-1640107541.jpeg?crop=1.00xw:0.753xh;0,0.118xh&resize=480:*",
+            "category": "Non-veg"
+        },
+        {
+            "id": 10,
+            "name": "Air Fryer Salmon",
+            "type": "summer",
+            "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-190621-air-fryer-salmon-0078-landscape-pf-1567779966.jpg?crop=1.00xw:0.752xh;0,0.156xh&resize=480:*",
+            "category": "non-veg"
+        },
+        {
+            "id": 11,
+            "name": "Pressure-Cooker Saucy Italian Chicken",
+            "type": "Winter",
+            "imageUrl": "https://www.tasteofhome.com/wp-content/uploads/2018/12/Pressure-Cooker-Saucy-Italian-Chicken_EXPS_SDFM19_229697_B10_11_3b-1.jpg?resize=768,768",
+            "category": "non-veg"
+        },
+        {
+            "id": 12,
+            "name": "Slow Cooker Split Pea Soup",
+            "type": "Winter",
+            "imageUrl": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Slow-Cooker-Split-Pea-Soup_EXPS_SCBZ18_88714_C07_27_2b-4.jpg?resize=768,768",
+            "category": "non-veg"
+        },
+        {
+            "id": 13,
+            "name": "Lemon Chicken with Orzo",
+            "type": "dairy free",
+            "imageUrl": "https://www.tasteofhome.com/wp-content/uploads/2018/01/exps165681_LR153742D08_21_9b-14.jpg?resize=768,768",
+            "category": "non-veg"
+        },
+        {
+            "id": 14,
+            "name": "Blushing Grapefruit Sorbet",
+            "type": "dairy free",
+            "imageUrl": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Blushing-Grapefruit-Sorbet_exps136860_CW2235112A08_11_3bC_RMS-9.jpg?resize=768,768",
+            "category": "Sweet"
+        },
+        {
+            "id": 15,
+            "name": "Roasted Brussels Sprouts",
+            "type": "Egg free",
+            "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/43/2018/10/812447.jpg",
+            "category": "veg"
+        },
+        {
+            "id": 16,
+            "name": "Easiest Peanut Butter Fudge",
+            "type": "Egg free",
+            "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/43/2021/10/27/Easiest-Peanut-Butter-Fudge.jpg",
+            "category": "sweet"
+        },
+        {
+            "id": 17,
+            "name": "Jowar Tacos with Spicy Chicken Filling",
+            "type": "gluten free",
+            "imageUrl": "https://i.ndtvimg.com/i/2017-04/jowar_620x330_71493212901.jpg",
+            "category": "non-veg"
+        },
+        {
+            "id": 18,
+            "name": "Green Chilly and Mango Risotto",
+            "type": "gluten free",
+            "imageUrl": "https://i.ndtvimg.com/i/2017-04/risotto_620x350_71493213477.jpg",
+            "category": "veg"
+        },
+        {
+            "id": 19,
+            "name": "Cheesy Vegetarian Enchilada Casserole",
+            "type": "quick and easy",
+            "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https://images.media-allrecipes.com/userphotos/4558217.jpg",
+            "category": "veg"
+        },
+        {
+            "id": 20,
+            "name": "Skillet Chicken Bulgogi",
+            "type": "quick and easy",
+            "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https://images.media-allrecipes.com/userphotos/2280937.jpg",
+            "category": "non-veg"
+        }
+    ]
+}

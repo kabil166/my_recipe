@@ -1,0 +1,9 @@
+.app{
+    background-color: #eff2f5;
+}
+.app__body{
+    display: flex;
+    width: 80vw;
+    margin-left: 10vw;
+    padding: 20px;
+}

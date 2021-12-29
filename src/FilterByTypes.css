@@ -1,0 +1,7 @@
+.filter__options{
+    position: relative;
+    display: block;
+    width: 200px;
+    margin: 10px 20px;
+    flex: .4;
+}

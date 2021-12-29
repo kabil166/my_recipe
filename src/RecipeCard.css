@@ -1,0 +1,27 @@
+.recipe__card{
+    display: flex;
+    flex-direction: column;
+    height: 250px;
+    width: 200px;
+    box-shadow: 0 5px 17px -7px rgba(0, 0, 0, .75);
+    transition: transform 100ms ease-in;
+    cursor: pointer;
+    margin: 25px;
+}
+
+.food__image{
+    height: 200px;
+    width: 100%;
+    background-position: center center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.details__top{
+    display: flex;
+    justify-content: space-evenly;
+}
+.details__header{
+    text-align: center;
+}
